@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    margin: 30px;
+    line-height: 1.8;
+}
+h1 {
+    color: maroon;
+}
+
+table {
+    width: 30%;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: grey;
+}

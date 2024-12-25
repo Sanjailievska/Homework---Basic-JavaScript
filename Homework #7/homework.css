@@ -1,0 +1,17 @@
+body {
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+  }
+
+table {
+    width: 100%;
+    font-family: Arial;
+  }
+  
+  th, td {
+    border: 2px solid;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+  }
